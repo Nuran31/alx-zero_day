@@ -1,1 +1,1 @@
-my 2nd readme
+My sec. readme
